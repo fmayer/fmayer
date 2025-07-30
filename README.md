@@ -1,6 +1,4 @@
-# Hi!
-
-I'm Florian. I have an interest in compilers, systems programming, and
+Hi; I'm Florian. I have an interest in compilers, systems programming, and
 programming languages.
 
 I work at [@google] on improving software security and stability.
